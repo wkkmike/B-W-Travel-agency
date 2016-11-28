@@ -1,0 +1,74 @@
+//user
++--------------+--------------+------+-----+---------+-------+
+| Field        | Type         | Null | Key | Default | Extra |
++--------------+--------------+------+-----+---------+-------+
+| UserAccount  | varchar(45)  | NO   | PRI | NULL    |       |
+| UserPassword | char(32)     | NO   |     | NULL    |       |
+| UserEmail    | varchar(45)  | NO   | UNI | NULL    |       |
+| UserPhoneNum | decimal(8,0) | NO   | UNI | NULL    |       |
+| UserBirthday | date         | YES  |     | NULL    |       |
++--------------+--------------+------+-----+---------+-------+
+
+//admin
++---------------+-------------+------+-----+---------+-------+
+| Field         | Type        | Null | Key | Default | Extra |
++---------------+-------------+------+-----+---------+-------+
+| AdminAccount  | varchar(45) | NO   | PRI | NULL    |       |
+| AdminPassword | char(32)    | NO   |     | NULL    |       |
++---------------+-------------+------+-----+---------+-------+
+
+//Order
++------------------+-------------+------+-----+---------+-------+
+| Field            | Type        | Null | Key | Default | Extra |
++------------------+-------------+------+-----+---------+-------+
+| OrderId          | int(11)     | NO   | PRI | NULL    |       |
+| User_UserAccount | varchar(45) | NO   | MUL | NULL    |       |
+| TravelPlan_TPId  | varchar(45) | NO   | MUL | NULL    |       |
++------------------+-------------+------+-----+---------+-------+
+
+//TravelPlan
++----------------------+-------------+------+-----+---------+-------+
+| Field                | Type        | Null | Key | Default | Extra |
++----------------------+-------------+------+-----+---------+-------+
+| TPId                 | varchar(45) | NO   | PRI | NULL    |       |
+| TPStartDate          | date        | NO   |     | NULL    |       |
+| TPDuration           | int(11)     | NO   |     | NULL    |       |
+| TPQuota              | varchar(45) | YES  |     | NULL    |       |
+| TPType               | varchar(1)  | YES  |     | NULL    |       |
+| Accomodation_AccName | varchar(45) | NO   | MUL | NULL    |       |
+| Flight_FlightNum     | varchar(45) | NO   | MUL | NULL    |       |
+| Destination_DesName  | varchar(45) | NO   | MUL | NULL    |       |
++----------------------+-------------+------+-----+---------+-------+
+
+//Flight
++---------------------+-------------+------+-----+---------+-------+
+| Field               | Type        | Null | Key | Default | Extra |
++---------------------+-------------+------+-----+---------+-------+
+| FlightDepTime       | varchar(45) | NO   |     | NULL    |       |
+| FlightArrTime       | varchar(45) | NO   |     | NULL    |       |
+| FlightPrice         | double      | NO   |     | NULL    |       |
+| FlightNum           | varchar(45) | NO   | PRI | NULL    |       |
+| Destination_DesName | varchar(45) | NO   | MUL | NULL    |       |
++---------------------+-------------+------+-----+---------+-------+
+
+//Accomodation
++---------------------+-------------+------+-----+---------+-------+
+| Field               | Type        | Null | Key | Default | Extra |
++---------------------+-------------+------+-----+---------+-------+
+| AccName             | varchar(45) | NO   | PRI | NULL    |       |
+| AccAddress          | varchar(45) | NO   |     | NULL    |       |
+| AccRating           | double      | NO   |     | NULL    |       |
+| AccPrice            | double      | NO   |     | NULL    |       |
+| Destination_DesName | varchar(45) | NO   | MUL | NULL    |       |
+| LAT                 | double      | NO   |     | NULL    |       |
+| LNG                 | double      | NO   |     | NULL    |       |
++---------------------+-------------+------+-----+---------+-------+
+
+//Destination
++-------------+---------------+------+-----+---------+-------+
+| Field       | Type          | Null | Key | Default | Extra |
++-------------+---------------+------+-----+---------+-------+
+| DesName     | varchar(45)   | NO   | PRI | NULL    |       |
+| DesType     | varchar(1)    | NO   |     | NULL    |       |
+| DesDescribe | varchar(1000) | YES  |     | NULL    |       |
++-------------+---------------+------+-----+---------+-------+

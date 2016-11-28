@@ -1,0 +1,446 @@
+[16-Nov-2016 12:26:20 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/ubuntu/workspace/server/test.php on line 32
+[16-Nov-2016 12:27:35 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/ubuntu/workspace/server/test.php on line 32
+[16-Nov-2016 12:28:57 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, object given in /home/ubuntu/workspace/server/test.php on line 21
+[16-Nov-2016 12:28:57 UTC] PHP Stack trace:
+[16-Nov-2016 12:28:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/test.php:0
+[16-Nov-2016 12:28:57 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/test.php:21
+[16-Nov-2016 12:28:57 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/ubuntu/workspace/server/test.php on line 28
+[16-Nov-2016 12:28:57 UTC] PHP Stack trace:
+[16-Nov-2016 12:28:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/test.php:0
+[16-Nov-2016 12:28:57 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/server/test.php:28
+[16-Nov-2016 12:28:57 UTC] PHP Warning:  mysql_list_dbs() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/server/test.php on line 30
+[16-Nov-2016 12:28:57 UTC] PHP Stack trace:
+[16-Nov-2016 12:28:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/test.php:0
+[16-Nov-2016 12:28:57 UTC] PHP   2. mysql_list_dbs() /home/ubuntu/workspace/server/test.php:30
+[16-Nov-2016 12:28:57 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/ubuntu/workspace/server/test.php on line 32
+[16-Nov-2016 12:28:57 UTC] PHP Stack trace:
+[16-Nov-2016 12:28:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/test.php:0
+[16-Nov-2016 12:28:57 UTC] PHP   2. mysql_fetch_object() /home/ubuntu/workspace/server/test.php:32
+[16-Nov-2016 12:28:57 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/server/test.php on line 36
+[16-Nov-2016 12:28:57 UTC] PHP Stack trace:
+[16-Nov-2016 12:28:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/test.php:0
+[16-Nov-2016 12:28:57 UTC] PHP   2. mysql_close() /home/ubuntu/workspace/server/test.php:36
+[16-Nov-2016 12:30:04 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, object given in /home/ubuntu/workspace/server/test.php on line 21
+[16-Nov-2016 12:30:04 UTC] PHP Stack trace:
+[16-Nov-2016 12:30:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/test.php:0
+[16-Nov-2016 12:30:04 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/test.php:21
+[16-Nov-2016 12:30:04 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/ubuntu/workspace/server/test.php on line 28
+[16-Nov-2016 12:30:04 UTC] PHP Stack trace:
+[16-Nov-2016 12:30:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/test.php:0
+[16-Nov-2016 12:30:04 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/server/test.php:28
+[16-Nov-2016 12:30:04 UTC] PHP Warning:  mysql_list_dbs() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/server/test.php on line 30
+[16-Nov-2016 12:30:04 UTC] PHP Stack trace:
+[16-Nov-2016 12:30:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/test.php:0
+[16-Nov-2016 12:30:04 UTC] PHP   2. mysql_list_dbs() /home/ubuntu/workspace/server/test.php:30
+[16-Nov-2016 12:30:04 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/ubuntu/workspace/server/test.php on line 32
+[16-Nov-2016 12:30:04 UTC] PHP Stack trace:
+[16-Nov-2016 12:30:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/test.php:0
+[16-Nov-2016 12:30:04 UTC] PHP   2. mysql_fetch_object() /home/ubuntu/workspace/server/test.php:32
+[16-Nov-2016 12:30:04 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/server/test.php on line 36
+[16-Nov-2016 12:30:04 UTC] PHP Stack trace:
+[16-Nov-2016 12:30:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/test.php:0
+[16-Nov-2016 12:30:04 UTC] PHP   2. mysql_close() /home/ubuntu/workspace/server/test.php:36
+[16-Nov-2016 12:30:37 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/server/test.php on line 21
+[16-Nov-2016 12:31:07 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/server/test.php on line 21
+[16-Nov-2016 12:31:26 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/server/test.php on line 21
+[16-Nov-2016 12:31:31 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/server/test.php on line 21
+[16-Nov-2016 12:31:40 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/ubuntu/workspace/server/test.php on line 20
+[16-Nov-2016 12:31:40 UTC] PHP Stack trace:
+[16-Nov-2016 12:31:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/test.php:0
+[16-Nov-2016 12:31:40 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/server/test.php:20
+[16-Nov-2016 12:31:40 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/ubuntu/workspace/server/test.php on line 30
+[16-Nov-2016 12:31:40 UTC] PHP Stack trace:
+[16-Nov-2016 12:31:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/test.php:0
+[16-Nov-2016 12:31:40 UTC] PHP   2. mysqli_select_db() /home/ubuntu/workspace/server/test.php:30
+[16-Nov-2016 12:31:40 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/ubuntu/workspace/server/test.php on line 37
+[16-Nov-2016 12:31:40 UTC] PHP Stack trace:
+[16-Nov-2016 12:31:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/test.php:0
+[16-Nov-2016 12:31:40 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/server/test.php:37
+[16-Nov-2016 12:31:40 UTC] PHP Warning:  mysql_list_dbs() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/server/test.php on line 39
+[16-Nov-2016 12:31:40 UTC] PHP Stack trace:
+[16-Nov-2016 12:31:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/test.php:0
+[16-Nov-2016 12:31:40 UTC] PHP   2. mysql_list_dbs() /home/ubuntu/workspace/server/test.php:39
+[16-Nov-2016 12:31:40 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/ubuntu/workspace/server/test.php on line 41
+[16-Nov-2016 12:31:40 UTC] PHP Stack trace:
+[16-Nov-2016 12:31:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/test.php:0
+[16-Nov-2016 12:31:40 UTC] PHP   2. mysql_fetch_object() /home/ubuntu/workspace/server/test.php:41
+[16-Nov-2016 12:31:40 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/server/test.php on line 45
+[16-Nov-2016 12:31:40 UTC] PHP Stack trace:
+[16-Nov-2016 12:31:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/test.php:0
+[16-Nov-2016 12:31:40 UTC] PHP   2. mysql_close() /home/ubuntu/workspace/server/test.php:45
+[16-Nov-2016 13:18:04 UTC] PHP Parse error:  syntax error, unexpected 'mysql_query' (T_STRING) in /home/ubuntu/workspace/server/test.php on line 97
+[17-Nov-2016 16:10:47 UTC] PHP Warning:  mysql_connect(): Connection timed out in /home/ubuntu/workspace/server/UserSignIn.php on line 5
+[17-Nov-2016 16:10:47 UTC] PHP Stack trace:
+[17-Nov-2016 16:10:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:10:47 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/server/UserSignIn.php:5
+[17-Nov-2016 16:10:47 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/server/UserSignIn.php on line 6
+[17-Nov-2016 16:10:47 UTC] PHP Stack trace:
+[17-Nov-2016 16:10:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:10:47 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/UserSignIn.php:6
+[17-Nov-2016 16:10:47 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ubuntu/workspace/server/UserSignIn.php on line 6
+[17-Nov-2016 16:10:47 UTC] PHP Stack trace:
+[17-Nov-2016 16:10:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:10:47 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/UserSignIn.php:6
+[17-Nov-2016 16:11:37 UTC] PHP Warning:  mysql_connect(): Connection timed out in /home/ubuntu/workspace/server/UserSignIn.php on line 5
+[17-Nov-2016 16:11:37 UTC] PHP Stack trace:
+[17-Nov-2016 16:11:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:11:37 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/server/UserSignIn.php:5
+[17-Nov-2016 16:11:37 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/server/UserSignIn.php on line 6
+[17-Nov-2016 16:11:37 UTC] PHP Stack trace:
+[17-Nov-2016 16:11:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:11:37 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/UserSignIn.php:6
+[17-Nov-2016 16:11:37 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ubuntu/workspace/server/UserSignIn.php on line 6
+[17-Nov-2016 16:11:37 UTC] PHP Stack trace:
+[17-Nov-2016 16:11:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:11:37 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/UserSignIn.php:6
+[17-Nov-2016 16:17:43 UTC] PHP Warning:  mysql_connect(): Connection timed out in /home/ubuntu/workspace/server/UserSignIn.php on line 5
+[17-Nov-2016 16:17:43 UTC] PHP Stack trace:
+[17-Nov-2016 16:17:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:17:43 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/server/UserSignIn.php:5
+[17-Nov-2016 16:17:43 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/server/UserSignIn.php on line 6
+[17-Nov-2016 16:17:43 UTC] PHP Stack trace:
+[17-Nov-2016 16:17:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:17:43 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/UserSignIn.php:6
+[17-Nov-2016 16:17:43 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ubuntu/workspace/server/UserSignIn.php on line 6
+[17-Nov-2016 16:17:43 UTC] PHP Stack trace:
+[17-Nov-2016 16:17:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:17:43 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/UserSignIn.php:6
+[17-Nov-2016 16:18:43 UTC] PHP Warning:  mysql_connect(): Connection timed out in /home/ubuntu/workspace/server/UserSignIn.php on line 5
+[17-Nov-2016 16:18:43 UTC] PHP Stack trace:
+[17-Nov-2016 16:18:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:18:43 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/server/UserSignIn.php:5
+[17-Nov-2016 16:18:43 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/server/UserSignIn.php on line 6
+[17-Nov-2016 16:18:43 UTC] PHP Stack trace:
+[17-Nov-2016 16:18:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:18:43 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/UserSignIn.php:6
+[17-Nov-2016 16:18:43 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ubuntu/workspace/server/UserSignIn.php on line 6
+[17-Nov-2016 16:18:43 UTC] PHP Stack trace:
+[17-Nov-2016 16:18:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:18:43 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/UserSignIn.php:6
+[17-Nov-2016 16:19:43 UTC] PHP Warning:  mysql_connect(): Connection timed out in /home/ubuntu/workspace/server/UserSignIn.php on line 5
+[17-Nov-2016 16:19:43 UTC] PHP Stack trace:
+[17-Nov-2016 16:19:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:19:43 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/server/UserSignIn.php:5
+[17-Nov-2016 16:19:43 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/server/UserSignIn.php on line 6
+[17-Nov-2016 16:19:43 UTC] PHP Stack trace:
+[17-Nov-2016 16:19:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:19:43 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/UserSignIn.php:6
+[17-Nov-2016 16:19:43 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ubuntu/workspace/server/UserSignIn.php on line 6
+[17-Nov-2016 16:19:43 UTC] PHP Stack trace:
+[17-Nov-2016 16:19:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:19:43 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/UserSignIn.php:6
+[17-Nov-2016 16:20:43 UTC] PHP Warning:  mysql_connect(): Connection timed out in /home/ubuntu/workspace/server/UserSignIn.php on line 5
+[17-Nov-2016 16:20:43 UTC] PHP Stack trace:
+[17-Nov-2016 16:20:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:20:43 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/server/UserSignIn.php:5
+[17-Nov-2016 16:20:43 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/server/UserSignIn.php on line 6
+[17-Nov-2016 16:20:43 UTC] PHP Stack trace:
+[17-Nov-2016 16:20:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:20:43 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/UserSignIn.php:6
+[17-Nov-2016 16:20:43 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ubuntu/workspace/server/UserSignIn.php on line 6
+[17-Nov-2016 16:20:43 UTC] PHP Stack trace:
+[17-Nov-2016 16:20:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:20:43 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/UserSignIn.php:6
+[17-Nov-2016 16:23:03 UTC] PHP Warning:  mysql_connect(): Connection timed out in /home/ubuntu/workspace/server/UserSignIn.php on line 5
+[17-Nov-2016 16:23:03 UTC] PHP Stack trace:
+[17-Nov-2016 16:23:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:23:03 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/server/UserSignIn.php:5
+[17-Nov-2016 16:23:03 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/server/UserSignIn.php on line 6
+[17-Nov-2016 16:23:03 UTC] PHP Stack trace:
+[17-Nov-2016 16:23:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:23:03 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/UserSignIn.php:6
+[17-Nov-2016 16:23:03 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ubuntu/workspace/server/UserSignIn.php on line 6
+[17-Nov-2016 16:23:03 UTC] PHP Stack trace:
+[17-Nov-2016 16:23:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:23:03 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/UserSignIn.php:6
+[17-Nov-2016 16:24:28 UTC] PHP Warning:  mysql_connect(): Connection timed out in /home/ubuntu/workspace/server/UserSignIn.php on line 5
+[17-Nov-2016 16:24:28 UTC] PHP Stack trace:
+[17-Nov-2016 16:24:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:24:28 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/server/UserSignIn.php:5
+[17-Nov-2016 16:24:28 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/server/UserSignIn.php on line 6
+[17-Nov-2016 16:24:28 UTC] PHP Stack trace:
+[17-Nov-2016 16:24:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:24:28 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/UserSignIn.php:6
+[17-Nov-2016 16:24:28 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ubuntu/workspace/server/UserSignIn.php on line 6
+[17-Nov-2016 16:24:28 UTC] PHP Stack trace:
+[17-Nov-2016 16:24:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:24:28 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/UserSignIn.php:6
+[17-Nov-2016 16:25:28 UTC] PHP Warning:  mysql_connect(): Connection timed out in /home/ubuntu/workspace/server/UserSignIn.php on line 5
+[17-Nov-2016 16:25:28 UTC] PHP Stack trace:
+[17-Nov-2016 16:25:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:25:28 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/server/UserSignIn.php:5
+[17-Nov-2016 16:25:28 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/server/UserSignIn.php on line 6
+[17-Nov-2016 16:25:28 UTC] PHP Stack trace:
+[17-Nov-2016 16:25:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:25:28 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/UserSignIn.php:6
+[17-Nov-2016 16:25:28 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ubuntu/workspace/server/UserSignIn.php on line 6
+[17-Nov-2016 16:25:28 UTC] PHP Stack trace:
+[17-Nov-2016 16:25:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:25:28 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/UserSignIn.php:6
+[17-Nov-2016 16:30:41 UTC] PHP Warning:  mysql_connect(): Connection timed out in /home/ubuntu/workspace/server/UserSignIn.php on line 5
+[17-Nov-2016 16:30:41 UTC] PHP Stack trace:
+[17-Nov-2016 16:30:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:30:41 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/server/UserSignIn.php:5
+[17-Nov-2016 16:30:41 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/server/UserSignIn.php on line 6
+[17-Nov-2016 16:30:41 UTC] PHP Stack trace:
+[17-Nov-2016 16:30:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:30:41 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/UserSignIn.php:6
+[17-Nov-2016 16:30:41 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ubuntu/workspace/server/UserSignIn.php on line 6
+[17-Nov-2016 16:30:41 UTC] PHP Stack trace:
+[17-Nov-2016 16:30:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:30:41 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/server/UserSignIn.php:6
+[17-Nov-2016 16:39:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 22
+[17-Nov-2016 16:39:04 UTC] PHP Stack trace:
+[17-Nov-2016 16:39:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:39:04 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:22
+[17-Nov-2016 16:41:31 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 22
+[17-Nov-2016 16:41:31 UTC] PHP Stack trace:
+[17-Nov-2016 16:41:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:41:31 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:22
+[17-Nov-2016 16:43:11 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 23
+[17-Nov-2016 16:43:11 UTC] PHP Stack trace:
+[17-Nov-2016 16:43:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:43:11 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:23
+[17-Nov-2016 16:46:47 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 23
+[17-Nov-2016 16:46:47 UTC] PHP Stack trace:
+[17-Nov-2016 16:46:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:46:47 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:23
+[17-Nov-2016 16:47:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 22
+[17-Nov-2016 16:47:33 UTC] PHP Stack trace:
+[17-Nov-2016 16:47:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:47:33 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:22
+[17-Nov-2016 16:50:09 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 22
+[17-Nov-2016 16:50:09 UTC] PHP Stack trace:
+[17-Nov-2016 16:50:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:50:09 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:22
+[17-Nov-2016 16:51:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 22
+[17-Nov-2016 16:51:04 UTC] PHP Stack trace:
+[17-Nov-2016 16:51:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:51:04 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:22
+[17-Nov-2016 16:53:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 22
+[17-Nov-2016 16:53:27 UTC] PHP Stack trace:
+[17-Nov-2016 16:53:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:53:27 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:22
+[17-Nov-2016 16:54:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 22
+[17-Nov-2016 16:54:37 UTC] PHP Stack trace:
+[17-Nov-2016 16:54:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:54:37 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:22
+[17-Nov-2016 16:54:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 22
+[17-Nov-2016 16:54:37 UTC] PHP Stack trace:
+[17-Nov-2016 16:54:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:54:37 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:22
+[17-Nov-2016 16:55:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 22
+[17-Nov-2016 16:55:23 UTC] PHP Stack trace:
+[17-Nov-2016 16:55:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:55:23 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:22
+[17-Nov-2016 16:56:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 22
+[17-Nov-2016 16:56:06 UTC] PHP Stack trace:
+[17-Nov-2016 16:56:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:56:06 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:22
+[17-Nov-2016 16:57:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 23
+[17-Nov-2016 16:57:05 UTC] PHP Stack trace:
+[17-Nov-2016 16:57:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:57:05 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:23
+[17-Nov-2016 16:57:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 23
+[17-Nov-2016 16:57:06 UTC] PHP Stack trace:
+[17-Nov-2016 16:57:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:57:06 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:23
+[17-Nov-2016 16:57:24 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 24
+[17-Nov-2016 16:57:24 UTC] PHP Stack trace:
+[17-Nov-2016 16:57:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:57:24 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:24
+[17-Nov-2016 16:57:24 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 24
+[17-Nov-2016 16:57:24 UTC] PHP Stack trace:
+[17-Nov-2016 16:57:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:57:24 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:24
+[17-Nov-2016 16:57:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 24
+[17-Nov-2016 16:57:55 UTC] PHP Stack trace:
+[17-Nov-2016 16:57:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:57:55 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:24
+[17-Nov-2016 16:58:11 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 24
+[17-Nov-2016 16:58:11 UTC] PHP Stack trace:
+[17-Nov-2016 16:58:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:58:11 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:24
+[17-Nov-2016 16:59:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 26
+[17-Nov-2016 16:59:06 UTC] PHP Stack trace:
+[17-Nov-2016 16:59:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 16:59:06 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:26
+[17-Nov-2016 17:01:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 26
+[17-Nov-2016 17:01:34 UTC] PHP Stack trace:
+[17-Nov-2016 17:01:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 17:01:34 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:26
+[17-Nov-2016 17:03:20 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 26
+[17-Nov-2016 17:03:20 UTC] PHP Stack trace:
+[17-Nov-2016 17:03:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 17:03:20 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:26
+[17-Nov-2016 17:03:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 26
+[17-Nov-2016 17:03:34 UTC] PHP Stack trace:
+[17-Nov-2016 17:03:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 17:03:34 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:26
+[17-Nov-2016 17:03:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 26
+[17-Nov-2016 17:03:50 UTC] PHP Stack trace:
+[17-Nov-2016 17:03:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 17:03:50 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:26
+[17-Nov-2016 17:03:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 26
+[17-Nov-2016 17:03:55 UTC] PHP Stack trace:
+[17-Nov-2016 17:03:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 17:03:55 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:26
+[17-Nov-2016 17:05:02 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 26
+[17-Nov-2016 17:05:02 UTC] PHP Stack trace:
+[17-Nov-2016 17:05:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 17:05:02 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:26
+[17-Nov-2016 17:05:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 26
+[17-Nov-2016 17:05:05 UTC] PHP Stack trace:
+[17-Nov-2016 17:05:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 17:05:05 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:26
+[17-Nov-2016 17:05:49 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 26
+[17-Nov-2016 17:05:49 UTC] PHP Stack trace:
+[17-Nov-2016 17:05:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 17:05:49 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:26
+[17-Nov-2016 17:06:33 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/server/UserSignIn.php on line 21
+[17-Nov-2016 17:06:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 28
+[17-Nov-2016 17:06:41 UTC] PHP Stack trace:
+[17-Nov-2016 17:06:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 17:06:41 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:28
+[17-Nov-2016 17:07:48 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 28
+[17-Nov-2016 17:07:48 UTC] PHP Stack trace:
+[17-Nov-2016 17:07:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 17:07:48 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:28
+[17-Nov-2016 17:08:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 28
+[17-Nov-2016 17:08:55 UTC] PHP Stack trace:
+[17-Nov-2016 17:08:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 17:08:55 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:28
+[17-Nov-2016 17:09:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 29
+[17-Nov-2016 17:09:40 UTC] PHP Stack trace:
+[17-Nov-2016 17:09:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 17:09:40 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:29
+[17-Nov-2016 17:11:43 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 29
+[17-Nov-2016 17:11:43 UTC] PHP Stack trace:
+[17-Nov-2016 17:11:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 17:11:43 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:29
+[17-Nov-2016 17:12:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 29
+[17-Nov-2016 17:12:53 UTC] PHP Stack trace:
+[17-Nov-2016 17:12:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 17:12:53 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:29
+[17-Nov-2016 17:13:49 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 29
+[17-Nov-2016 17:13:49 UTC] PHP Stack trace:
+[17-Nov-2016 17:13:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 17:13:49 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:29
+[17-Nov-2016 17:13:57 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 29
+[17-Nov-2016 17:13:57 UTC] PHP Stack trace:
+[17-Nov-2016 17:13:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[17-Nov-2016 17:13:57 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:29
+[18-Nov-2016 08:43:46 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/server/UserSignUp.php on line 25
+[18-Nov-2016 09:01:50 UTC] PHP Parse error:  syntax error, unexpected '$num1' (T_VARIABLE) in /home/ubuntu/workspace/server/UserSignIn.php on line 28
+[18-Nov-2016 09:02:29 UTC] PHP Parse error:  syntax error, unexpected '$num1' (T_VARIABLE) in /home/ubuntu/workspace/server/UserSignIn.php on line 28
+[18-Nov-2016 09:02:52 UTC] PHP Parse error:  syntax error, unexpected '$num1' (T_VARIABLE) in /home/ubuntu/workspace/server/UserSignIn.php on line 28
+[18-Nov-2016 09:03:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 28
+[18-Nov-2016 09:03:14 UTC] PHP Stack trace:
+[18-Nov-2016 09:03:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[18-Nov-2016 09:03:14 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:28
+[18-Nov-2016 09:03:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 29
+[18-Nov-2016 09:03:14 UTC] PHP Stack trace:
+[18-Nov-2016 09:03:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[18-Nov-2016 09:03:14 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:29
+[18-Nov-2016 09:03:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 28
+[18-Nov-2016 09:03:21 UTC] PHP Stack trace:
+[18-Nov-2016 09:03:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[18-Nov-2016 09:03:21 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:28
+[18-Nov-2016 09:03:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 29
+[18-Nov-2016 09:03:21 UTC] PHP Stack trace:
+[18-Nov-2016 09:03:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[18-Nov-2016 09:03:21 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:29
+[18-Nov-2016 09:05:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 28
+[18-Nov-2016 09:05:12 UTC] PHP Stack trace:
+[18-Nov-2016 09:05:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[18-Nov-2016 09:05:12 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:28
+[18-Nov-2016 09:05:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/UserSignIn.php on line 29
+[18-Nov-2016 09:05:12 UTC] PHP Stack trace:
+[18-Nov-2016 09:05:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserSignIn.php:0
+[18-Nov-2016 09:05:12 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/server/UserSignIn.php:29
+[19-Nov-2016 16:33:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/SeAccByDe.php on line 26
+[19-Nov-2016 16:33:46 UTC] PHP Stack trace:
+[19-Nov-2016 16:33:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/SeAccByDe.php:0
+[19-Nov-2016 16:33:46 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/server/SeAccByDe.php:26
+[19-Nov-2016 16:45:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/SeAccByDe.php on line 26
+[19-Nov-2016 16:45:32 UTC] PHP Stack trace:
+[19-Nov-2016 16:45:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/SeAccByDe.php:0
+[19-Nov-2016 16:45:32 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/server/SeAccByDe.php:26
+[19-Nov-2016 16:55:45 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/SeAccByDe.php on line 26
+[19-Nov-2016 16:55:45 UTC] PHP Stack trace:
+[19-Nov-2016 16:55:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/SeAccByDe.php:0
+[19-Nov-2016 16:55:45 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/server/SeAccByDe.php:26
+[19-Nov-2016 17:02:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/SeAccByDe.php on line 26
+[19-Nov-2016 17:02:51 UTC] PHP Stack trace:
+[19-Nov-2016 17:02:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/SeAccByDe.php:0
+[19-Nov-2016 17:02:51 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/server/SeAccByDe.php:26
+[19-Nov-2016 17:04:11 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/SeAccByDe.php on line 26
+[19-Nov-2016 17:04:11 UTC] PHP Stack trace:
+[19-Nov-2016 17:04:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/SeAccByDe.php:0
+[19-Nov-2016 17:04:11 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/server/SeAccByDe.php:26
+[19-Nov-2016 17:04:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/SeAccByDe.php on line 26
+[19-Nov-2016 17:04:51 UTC] PHP Stack trace:
+[19-Nov-2016 17:04:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/SeAccByDe.php:0
+[19-Nov-2016 17:04:51 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/server/SeAccByDe.php:26
+[19-Nov-2016 17:04:59 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/SeAccByDe.php on line 26
+[19-Nov-2016 17:04:59 UTC] PHP Stack trace:
+[19-Nov-2016 17:04:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/SeAccByDe.php:0
+[19-Nov-2016 17:04:59 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/server/SeAccByDe.php:26
+[19-Nov-2016 17:05:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/server/SeAccByDe.php on line 27
+[19-Nov-2016 17:05:08 UTC] PHP Stack trace:
+[19-Nov-2016 17:05:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/SeAccByDe.php:0
+[19-Nov-2016 17:05:08 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/server/SeAccByDe.php:27
+[20-Nov-2016 17:00:41 UTC] PHP Parse error:  syntax error, unexpected '$DesName' (T_VARIABLE) in /home/ubuntu/workspace/server/SeAccByDe.php on line 21
+[20-Nov-2016 17:02:10 UTC] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/ubuntu/workspace/server/SeFliByDe.php on line 16
+[21-Nov-2016 15:19:05 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/server/SeAccByDe.php on line 8
+[21-Nov-2016 15:19:15 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/server/SeAccByDe.php on line 8
+[21-Nov-2016 15:19:43 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/server/SeAccByDe.php on line 8
+[21-Nov-2016 16:22:15 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/ubuntu/workspace/server/CreateTables.php on line 131
+[21-Nov-2016 16:48:43 UTC] PHP Warning:  mysql_insert_id() expects parameter 1 to be resource, string given in /home/ubuntu/workspace/server/UserAddTP.php on line 32
+[21-Nov-2016 16:48:43 UTC] PHP Stack trace:
+[21-Nov-2016 16:48:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserAddTP.php:0
+[21-Nov-2016 16:48:43 UTC] PHP   2. mysql_insert_id() /home/ubuntu/workspace/server/UserAddTP.php:32
+[21-Nov-2016 16:49:50 UTC] PHP Warning:  mysql_insert_id() expects parameter 1 to be resource, string given in /home/ubuntu/workspace/server/UserAddTP.php on line 32
+[21-Nov-2016 16:49:50 UTC] PHP Stack trace:
+[21-Nov-2016 16:49:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserAddTP.php:0
+[21-Nov-2016 16:49:50 UTC] PHP   2. mysql_insert_id() /home/ubuntu/workspace/server/UserAddTP.php:32
+[21-Nov-2016 16:50:36 UTC] PHP Warning:  mysql_insert_id() expects parameter 1 to be resource, string given in /home/ubuntu/workspace/server/UserAddTP.php on line 32
+[21-Nov-2016 16:50:36 UTC] PHP Stack trace:
+[21-Nov-2016 16:50:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserAddTP.php:0
+[21-Nov-2016 16:50:36 UTC] PHP   2. mysql_insert_id() /home/ubuntu/workspace/server/UserAddTP.php:32
+[21-Nov-2016 16:51:21 UTC] PHP Warning:  mysql_insert_id() expects parameter 1 to be resource, string given in /home/ubuntu/workspace/server/UserAddTP.php on line 32
+[21-Nov-2016 16:51:21 UTC] PHP Stack trace:
+[21-Nov-2016 16:51:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserAddTP.php:0
+[21-Nov-2016 16:51:21 UTC] PHP   2. mysql_insert_id() /home/ubuntu/workspace/server/UserAddTP.php:32
+[21-Nov-2016 16:53:39 UTC] PHP Warning:  mysql_insert_id() expects parameter 1 to be resource, string given in /home/ubuntu/workspace/server/UserAddTP.php on line 32
+[21-Nov-2016 16:53:39 UTC] PHP Stack trace:
+[21-Nov-2016 16:53:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/UserAddTP.php:0
+[21-Nov-2016 16:53:39 UTC] PHP   2. mysql_insert_id() /home/ubuntu/workspace/server/UserAddTP.php:32
+[21-Nov-2016 16:58:06 UTC] PHP Parse error:  syntax error, unexpected '$TPStartDate' (T_VARIABLE) in /home/ubuntu/workspace/server/UserAddTP.php on line 26
+[21-Nov-2016 17:10:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/server/UserAddTP.php on line 38
+[21-Nov-2016 18:05:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/server/SeAccByDe.php:28) in /home/ubuntu/workspace/server/SeAccByDe.php on line 31
+[21-Nov-2016 18:05:04 UTC] PHP Stack trace:
+[21-Nov-2016 18:05:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/SeAccByDe.php:0
+[21-Nov-2016 18:05:04 UTC] PHP   2. header() /home/ubuntu/workspace/server/SeAccByDe.php:31
+[21-Nov-2016 18:05:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/server/SeAccByDe.php:28) in /home/ubuntu/workspace/server/SeAccByDe.php on line 31
+[21-Nov-2016 18:05:10 UTC] PHP Stack trace:
+[21-Nov-2016 18:05:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/SeAccByDe.php:0
+[21-Nov-2016 18:05:10 UTC] PHP   2. header() /home/ubuntu/workspace/server/SeAccByDe.php:31
+[21-Nov-2016 18:06:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/server/SeAccByDe.php:28) in /home/ubuntu/workspace/server/SeAccByDe.php on line 31
+[21-Nov-2016 18:06:35 UTC] PHP Stack trace:
+[21-Nov-2016 18:06:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/SeAccByDe.php:0
+[21-Nov-2016 18:06:35 UTC] PHP   2. header() /home/ubuntu/workspace/server/SeAccByDe.php:31
+[21-Nov-2016 18:08:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/server/SeAccByDe.php:28) in /home/ubuntu/workspace/server/SeAccByDe.php on line 31
+[21-Nov-2016 18:08:22 UTC] PHP Stack trace:
+[21-Nov-2016 18:08:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/SeAccByDe.php:0
+[21-Nov-2016 18:08:22 UTC] PHP   2. header() /home/ubuntu/workspace/server/SeAccByDe.php:31
+[21-Nov-2016 18:08:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/server/SeAccByDe.php:28) in /home/ubuntu/workspace/server/SeAccByDe.php on line 31
+[21-Nov-2016 18:08:23 UTC] PHP Stack trace:
+[21-Nov-2016 18:08:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/SeAccByDe.php:0
+[21-Nov-2016 18:08:23 UTC] PHP   2. header() /home/ubuntu/workspace/server/SeAccByDe.php:31
+[21-Nov-2016 18:08:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/server/SeAccByDe.php:28) in /home/ubuntu/workspace/server/SeAccByDe.php on line 31
+[21-Nov-2016 18:08:44 UTC] PHP Stack trace:
+[21-Nov-2016 18:08:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/server/SeAccByDe.php:0
+[21-Nov-2016 18:08:44 UTC] PHP   2. header() /home/ubuntu/workspace/server/SeAccByDe.php:31
+[21-Nov-2016 18:25:12 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/ubuntu/workspace/server/CreateTables.php on line 131
+[21-Nov-2016 18:25:16 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/ubuntu/workspace/server/CreateTables.php on line 131
