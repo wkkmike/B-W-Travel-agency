@@ -1,0 +1,282 @@
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_connect(): No such file or directory in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 7
+[04-Dec-2016 09:54:51 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 10
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 14
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 15
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 23
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 30
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 33
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 36
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 43
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 49
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 51
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 57
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 73
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 80
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 89
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 96
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 116
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 123
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 152
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 159
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 168
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 176
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 186
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 197
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 218
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 223
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 225
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 227
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query(): No such file or directory in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 231
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 231
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query(): No such file or directory in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 235
+[04-Dec-2016 09:54:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 235
+[04-Dec-2016 09:55:54 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 10
+[04-Dec-2016 14:03:20 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
+[04-Dec-2016 14:03:32 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/CreatTable.php on line 10
+[04-Dec-2016 14:03:48 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
+[04-Dec-2016 14:04:01 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
+[04-Dec-2016 14:05:01 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
+[04-Dec-2016 14:05:25 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
+[04-Dec-2016 15:47:04 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignUp.php on line 12
+[04-Dec-2016 15:47:04 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /webhome/14109533d/public_html/travel/workspace/server/UserSignUp.php on line 35
+[04-Dec-2016 16:29:25 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
+[04-Dec-2016 16:32:33 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
+[04-Dec-2016 16:34:17 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddDes.php on line 12
+[04-Dec-2016 16:35:17 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddDes.php on line 12
+[04-Dec-2016 16:35:38 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddDes.php on line 12
+[04-Dec-2016 16:35:59 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddDes.php on line 12
+[04-Dec-2016 16:37:04 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 16:37:38 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 16:38:05 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 16:39:20 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 16:41:00 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 16:41:57 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 16:42:25 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 16:42:52 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 16:43:38 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 16:44:10 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 16:45:05 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddDes.php on line 12
+[04-Dec-2016 16:46:09 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 16:46:27 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 16:47:32 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminDelAcc.php on line 12
+[04-Dec-2016 16:47:48 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 16:48:01 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminDelAcc.php on line 12
+[04-Dec-2016 16:48:26 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 16:48:42 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 16:49:35 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 16:51:00 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 16:52:33 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddDes.php on line 12
+[04-Dec-2016 16:54:59 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddDes.php on line 12
+[04-Dec-2016 16:55:13 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddDes.php on line 12
+[04-Dec-2016 16:56:40 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddDes.php on line 12
+[04-Dec-2016 16:57:13 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddDes.php on line 12
+[04-Dec-2016 16:58:44 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 16:59:16 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 16:59:57 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 17:01:20 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 17:01:46 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 17:02:20 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 17:02:48 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 17:02:48 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 17:03:22 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 17:09:17 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminDelDes.php on line 12
+[04-Dec-2016 17:10:35 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddTP.php on line 12
+[04-Dec-2016 17:11:06 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddTP.php on line 12
+[04-Dec-2016 17:11:33 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddTP.php on line 12
+[04-Dec-2016 17:11:58 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddTP.php on line 12
+[04-Dec-2016 17:12:40 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddTP.php on line 12
+[04-Dec-2016 17:13:08 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddTP.php on line 12
+[04-Dec-2016 17:15:12 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddTP.php on line 12
+[04-Dec-2016 17:15:38 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddTP.php on line 12
+[04-Dec-2016 17:16:35 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddTP.php on line 12
+[04-Dec-2016 17:17:35 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddTP.php on line 12
+[04-Dec-2016 17:18:19 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddTP.php on line 12
+[04-Dec-2016 17:19:01 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddTP.php on line 12
+[04-Dec-2016 17:19:47 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddTP.php on line 12
+[04-Dec-2016 17:21:45 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddTP.php on line 12
+[04-Dec-2016 17:23:06 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddTP.php on line 12
+[04-Dec-2016 17:24:28 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddTP.php on line 12
+[04-Dec-2016 17:24:58 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddTP.php on line 12
+[04-Dec-2016 17:27:33 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 17:31:37 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 17:33:29 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 17:35:12 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 17:37:58 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 17:40:32 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignUp.php on line 12
+[04-Dec-2016 17:41:19 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 12
+[04-Dec-2016 17:41:19 UTC] PHP Notice:  Undefined index: AccRating in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 72
+[04-Dec-2016 17:41:36 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:41:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php:68) in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 71
+[04-Dec-2016 17:41:46 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:41:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php:68) in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 71
+[04-Dec-2016 17:41:49 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:41:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php:68) in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 71
+[04-Dec-2016 17:42:05 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:42:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php:68) in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 71
+[04-Dec-2016 17:44:23 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 17:45:59 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 17:49:52 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 17:50:07 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:50:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php:68) in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 71
+[04-Dec-2016 17:50:13 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:50:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php:68) in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 71
+[04-Dec-2016 17:50:22 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:50:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php:68) in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 71
+[04-Dec-2016 17:50:28 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:50:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php:68) in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 71
+[04-Dec-2016 17:50:32 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:50:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php:68) in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 71
+[04-Dec-2016 17:51:24 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:51:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php:68) in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 71
+[04-Dec-2016 17:52:05 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:52:08 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:52:09 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:52:11 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:52:13 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:52:14 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:52:21 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 17:53:33 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:53:37 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:53:50 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 12
+[04-Dec-2016 17:53:50 UTC] PHP Notice:  Undefined index: AccRating in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 72
+[04-Dec-2016 17:55:18 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddAcc.php on line 12
+[04-Dec-2016 17:56:10 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 12
+[04-Dec-2016 17:56:10 UTC] PHP Notice:  Undefined index: AccRating in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 72
+[04-Dec-2016 17:56:23 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:56:27 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:57:12 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:57:54 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 12
+[04-Dec-2016 17:57:54 UTC] PHP Notice:  Undefined index: DesName in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 15
+[04-Dec-2016 17:57:54 UTC] PHP Notice:  Undefined index: TPPrice in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 17
+[04-Dec-2016 17:57:54 UTC] PHP Notice:  Undefined index: DesType in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 31
+[04-Dec-2016 17:57:54 UTC] PHP Notice:  Undefined index: TPDuration in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 54
+[04-Dec-2016 17:57:54 UTC] PHP Notice:  Undefined index: AccRating in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 72
+[04-Dec-2016 17:58:09 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:58:15 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:58:17 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 12
+[04-Dec-2016 17:58:17 UTC] PHP Notice:  Undefined index: DesName in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 15
+[04-Dec-2016 17:58:17 UTC] PHP Notice:  Undefined index: TPPrice in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 17
+[04-Dec-2016 17:58:17 UTC] PHP Notice:  Undefined index: DesType in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 31
+[04-Dec-2016 17:58:17 UTC] PHP Notice:  Undefined index: TPDuration in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 54
+[04-Dec-2016 17:58:17 UTC] PHP Notice:  Undefined index: AccRating in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 72
+[04-Dec-2016 17:58:33 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:58:45 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 12
+[04-Dec-2016 17:58:45 UTC] PHP Notice:  Undefined index: DesName in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 15
+[04-Dec-2016 17:58:45 UTC] PHP Notice:  Undefined index: TPPrice in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 17
+[04-Dec-2016 17:58:45 UTC] PHP Notice:  Undefined index: DesType in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 31
+[04-Dec-2016 17:58:45 UTC] PHP Notice:  Undefined index: TPDuration in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 54
+[04-Dec-2016 17:58:45 UTC] PHP Notice:  Undefined index: AccRating in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 72
+[04-Dec-2016 17:59:34 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 12
+[04-Dec-2016 17:59:34 UTC] PHP Notice:  Undefined index: DesName in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 15
+[04-Dec-2016 17:59:34 UTC] PHP Notice:  Undefined index: TPPrice in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 17
+[04-Dec-2016 17:59:34 UTC] PHP Notice:  Undefined index: DesType in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 31
+[04-Dec-2016 17:59:34 UTC] PHP Notice:  Undefined index: TPDuration in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 54
+[04-Dec-2016 17:59:34 UTC] PHP Notice:  Undefined index: AccRating in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 72
+[04-Dec-2016 17:59:36 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:59:38 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:59:40 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 17:59:41 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 12
+[04-Dec-2016 17:59:41 UTC] PHP Notice:  Undefined index: DesName in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 15
+[04-Dec-2016 17:59:41 UTC] PHP Notice:  Undefined index: TPPrice in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 17
+[04-Dec-2016 17:59:41 UTC] PHP Notice:  Undefined index: DesType in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 31
+[04-Dec-2016 17:59:41 UTC] PHP Notice:  Undefined index: TPDuration in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 54
+[04-Dec-2016 17:59:41 UTC] PHP Notice:  Undefined index: AccRating in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 72
+[04-Dec-2016 18:00:23 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 12
+[04-Dec-2016 18:00:23 UTC] PHP Notice:  Undefined index: DesName in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 15
+[04-Dec-2016 18:00:23 UTC] PHP Notice:  Undefined index: TPPrice in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 17
+[04-Dec-2016 18:00:23 UTC] PHP Notice:  Undefined index: DesType in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 31
+[04-Dec-2016 18:00:23 UTC] PHP Notice:  Undefined index: TPDuration in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 54
+[04-Dec-2016 18:00:23 UTC] PHP Notice:  Undefined index: AccRating in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 72
+[04-Dec-2016 18:01:19 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:01:51 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:02:04 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:02:07 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:02:08 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:05:30 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 12
+[04-Dec-2016 18:05:30 UTC] PHP Notice:  Undefined index: DesName in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 15
+[04-Dec-2016 18:05:30 UTC] PHP Notice:  Undefined index: TPPrice in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 17
+[04-Dec-2016 18:05:30 UTC] PHP Notice:  Undefined index: DesType in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 31
+[04-Dec-2016 18:05:30 UTC] PHP Notice:  Undefined index: TPDuration in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 54
+[04-Dec-2016 18:05:30 UTC] PHP Notice:  Undefined index: AccRating in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 72
+[04-Dec-2016 18:05:38 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:05:47 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 12
+[04-Dec-2016 18:05:47 UTC] PHP Notice:  Undefined index: DesName in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 15
+[04-Dec-2016 18:05:47 UTC] PHP Notice:  Undefined index: TPPrice in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 17
+[04-Dec-2016 18:05:47 UTC] PHP Notice:  Undefined index: DesType in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 31
+[04-Dec-2016 18:05:47 UTC] PHP Notice:  Undefined index: TPDuration in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 54
+[04-Dec-2016 18:05:47 UTC] PHP Notice:  Undefined index: AccRating in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 72
+[04-Dec-2016 18:05:56 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:05:59 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:06:04 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:06:10 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:06:12 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:06:21 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:06:23 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:06:24 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:06:25 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:06:28 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:06:30 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:06:40 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:06:42 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:06:44 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:06:47 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:06:49 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 18:06:56 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 12
+[04-Dec-2016 18:06:56 UTC] PHP Notice:  Undefined index: DesName in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 15
+[04-Dec-2016 18:06:56 UTC] PHP Notice:  Undefined index: TPPrice in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 17
+[04-Dec-2016 18:06:56 UTC] PHP Notice:  Undefined index: DesType in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 31
+[04-Dec-2016 18:06:56 UTC] PHP Notice:  Undefined index: TPDuration in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 54
+[04-Dec-2016 18:06:56 UTC] PHP Notice:  Undefined index: AccRating in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 72
+[04-Dec-2016 18:10:17 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AddOrder.php on line 11
+[04-Dec-2016 18:12:48 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserEditProfile.php on line 12
+[04-Dec-2016 18:12:48 UTC] PHP Notice:  Undefined index: UserAccount in /webhome/14109533d/public_html/travel/workspace/server/UserEditProfile.php on line 17
+[04-Dec-2016 18:12:48 UTC] PHP Notice:  Undefined variable: UserPassword in /webhome/14109533d/public_html/travel/workspace/server/UserEditProfile.php on line 26
+[04-Dec-2016 18:15:24 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
+[04-Dec-2016 18:15:51 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
+[04-Dec-2016 18:34:57 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignUp.php on line 12
+[04-Dec-2016 18:42:59 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignUp.php on line 12
+[04-Dec-2016 18:43:51 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignUp.php on line 12
+[04-Dec-2016 18:44:03 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
+[04-Dec-2016 19:34:11 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
+[04-Dec-2016 19:34:20 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 12
+[04-Dec-2016 19:34:20 UTC] PHP Notice:  Undefined index: AccRating in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 72
+[04-Dec-2016 19:34:29 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 19:34:32 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 19:34:34 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 19:34:36 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 19:34:37 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserRefineSR.php on line 12
+[04-Dec-2016 19:34:53 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 12
+[04-Dec-2016 19:34:53 UTC] PHP Notice:  Undefined index: DesName in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 15
+[04-Dec-2016 19:34:53 UTC] PHP Notice:  Undefined index: TPPrice in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 17
+[04-Dec-2016 19:34:53 UTC] PHP Notice:  Undefined index: DesType in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 31
+[04-Dec-2016 19:34:53 UTC] PHP Notice:  Undefined index: TPDuration in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 54
+[04-Dec-2016 19:34:53 UTC] PHP Notice:  Undefined index: AccRating in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 72
+[04-Dec-2016 19:35:37 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AddOrder.php on line 11
+[05-Dec-2016 09:21:57 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
+[05-Dec-2016 09:34:39 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminDelDes.php on line 12
+[05-Dec-2016 09:35:30 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddTP.php on line 12
+[05-Dec-2016 09:35:59 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AdminAddTP.php on line 12
+[05-Dec-2016 09:41:56 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
+[05-Dec-2016 09:42:15 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignUp.php on line 12
+[05-Dec-2016 09:44:41 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 12
+[05-Dec-2016 09:44:41 UTC] PHP Notice:  Undefined index: AccRating in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 72
+[05-Dec-2016 10:07:54 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
+[05-Dec-2016 10:11:31 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
+[05-Dec-2016 10:11:44 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 12
+[05-Dec-2016 10:11:44 UTC] PHP Notice:  Undefined index: AccRating in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 72
+[05-Dec-2016 10:12:00 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 12
+[05-Dec-2016 10:12:00 UTC] PHP Notice:  Undefined index: AccRating in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 72
+[05-Dec-2016 10:15:25 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
+[05-Dec-2016 12:22:12 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
+[05-Dec-2016 12:23:57 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
+[05-Dec-2016 12:25:12 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
+[07-Dec-2016 03:35:45 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
+[07-Dec-2016 03:36:25 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 12
+[07-Dec-2016 03:36:25 UTC] PHP Notice:  Undefined index: DesName in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 15
+[07-Dec-2016 03:36:25 UTC] PHP Notice:  Undefined index: TPPrice in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 17
+[07-Dec-2016 03:36:25 UTC] PHP Notice:  Undefined index: DesType in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 31
+[07-Dec-2016 03:36:25 UTC] PHP Notice:  Undefined index: TPDuration in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 54
+[07-Dec-2016 03:36:25 UTC] PHP Notice:  Undefined index: AccRating in /webhome/14109533d/public_html/travel/workspace/server/UserSearchTP.php on line 72
+[07-Dec-2016 03:36:39 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AddOrder.php on line 11
+[07-Dec-2016 03:37:39 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/AddOrder.php on line 11
+[07-Dec-2016 03:38:55 UTC] PHP Notice:  Trying to get property of non-object in /webhome/14109533d/public_html/travel/workspace/server/UserSignIn.php on line 13
